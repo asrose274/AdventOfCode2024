@@ -1,6 +1,4 @@
 ﻿
-using Microsoft.VisualBasic;
-
 StreamReader file = new StreamReader("/home/aaron/repos/AdventOfCode2024/Day 1/input_1.txt");
 var linecount = File.ReadLines("/home/aaron/repos/AdventOfCode2024/Day 1/input_1.txt").Count();
 List<int> numbers1 = new List<int>();
