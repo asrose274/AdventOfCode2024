@@ -1,0 +1,15 @@
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/bin/Debug/net8.0/AdventCode2.1
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/bin/Debug/net8.0/AdventCode2.1.deps.json
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/bin/Debug/net8.0/AdventCode2.1.runtimeconfig.json
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/bin/Debug/net8.0/AdventCode2.1.dll
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/bin/Debug/net8.0/AdventCode2.1.pdb
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/obj/Debug/net8.0/AdventCode2.1.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/obj/Debug/net8.0/AdventCode2.1.AssemblyInfoInputs.cache
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/obj/Debug/net8.0/AdventCode2.1.AssemblyInfo.cs
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/obj/Debug/net8.0/AdventCode2.1.csproj.CoreCompileInputs.cache
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/obj/Debug/net8.0/AdventCode2.1.sourcelink.json
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/obj/Debug/net8.0/AdventCode2.1.dll
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/obj/Debug/net8.0/refint/AdventCode2.1.dll
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/obj/Debug/net8.0/AdventCode2.1.pdb
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/obj/Debug/net8.0/AdventCode2.1.genruntimeconfig.cache
+/home/aaron/repos/AdventOfCode2024/Day 2/AdventCode2.1/obj/Debug/net8.0/ref/AdventCode2.1.dll
