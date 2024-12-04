@@ -1,15 +1,28 @@
 ﻿StreamReader file = new StreamReader("/home/aaron/repos/AdventOfCode2024/Day 2/input_2.txt");
 var count = File.ReadLines("/home/aaron/repos/AdventOfCode2024/Day 2/input_2.txt").Count();
 
-var safe_reports = count;
+var safe_reports = 0;
 
 for(int i = 0; i < count; i++)
 
 {
     var line = file.ReadLine()?.Split(' ')?.Select(Int32.Parse)?.ToList();
-    if(!IsSafe(line))
+    if(IsSafe(line))
     {
-        safe_reports -= 1;
+        safe_reports++;
+    }
+    else
+    {
+        for(int j = 0; j < line.Count; j++)
+        {
+            var copy = line.ToList();
+            copy.RemoveAt(j);
+            if(IsSafe(copy))
+            {
+                safe_reports++;
+                break;
+            }
+        }
     }
 };
 
